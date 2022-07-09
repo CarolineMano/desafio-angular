@@ -1,0 +1,44 @@
+<div class="container main-container">
+    <div *ngIf="role == 'Admin'">
+        <a  class="btn btn-success" [routerLink]="['/novoproduto']">
+            <span class="fa fa-plus"></span> Novo produto
+        </a>   
+    </div> 
+    <div class="row text-center">
+        <!--Card-->
+        <div *ngFor="let produto of produtos" class="col-md-6 col-lg-4 mx-auto mb-5">
+            <div class="h-100 card shadow">
+                <!--Card image-->
+                <div class="view view-cascade overlay text-center"> <img class="card-img-top embed-responsive-item" src="https://localhost:5001/Images/{{ produto.foto }}" height="164px" width="253px" alt=""> <a>
+                        <div class="mask rgba-white-slight"></div>
+                    </a> </div>
+                <!--Card Body-->
+                <div class="card-body card-body-cascade text-center ">
+                    <h4 class="card-title"><strong>{{ produto.marca | titlecase }}</strong></h4>
+                    <p class="card-text">{{ produto.descricao | titlecase }} </p>
+                    <p class="price">{{ produto.precoUnitario | currency:'BRL':'symbol':'1.2-2':'pt' }}</p>
+                    <p class="text-left mb-0"><small>Estoque: {{produto.quantidadeEstoque}}</small></p>
+                    <!--Card footer-->
+                    <div class="color-white">
+                        <div *ngIf="role == 'Comum'">
+                            <input type="number" min=1 max="{{produto.quantidadeEstoque}}" step=1 [(ngModel)]="produto.quantidade" class="form-control mb-3 mt-0">
+                            <button class="btn btn-primary" [disabled]='!desabilitarBotao(produto.quantidadeEstoque)' (click)='adicionarAoCarrinho(produto.id, produto.quantidade)'>
+                                <span class="fa fa-shopping-cart"></span> Adicionar ao carrinho
+                            </button>
+                        </div>
+                        
+                        <div *ngIf="role == 'Admin'" style="display:inline-block">
+                            <a class="btn btn-info" [routerLink]="['/editarproduto/', produto.id]"><i class="fa fa-pencil-square-o"></i> Editar</a>
+                            <a class="btn btn-danger" (click)='excluirProduto(produto.id)'>
+                                <span class="fa fa-trash"></span> Excluir 
+                            </a>   
+                        </div>                 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

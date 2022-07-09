@@ -1,0 +1,23 @@
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+  <div class="container-fluid">
+    <a class="navbar-brand text-white"  routerLinkActive="router-link-active" [routerLink]="['/home']">Manozon</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+    aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item mr-auto"><a class="nav-link" [routerLink]="['produtos']">Ver Produtos</a></li>
+        <li *ngIf="role == 'Comum' && isUserAuthenticated()" class="nav-item"><a class="nav-link" [routerLink]="['carrinho']"><i class="fa fa-shopping-cart"></i></a></li>  
+        <li *ngIf="role == 'Comum' && isUserAuthenticated()" class="nav-item"><a class="nav-link" [routerLink]="['minhascompras']">Minhas Compras</a></li>
+      </ul>
+      <ul class="navbar-nav ml-auto">
+        <li *ngIf="!isUserAuthenticated()" class="nav-item"><a class="nav-link" [routerLink]="['novaconta']">Criar conta</a></li>
+        <li *ngIf="!isUserAuthenticated()" class="nav-item"><a class="nav-link" [routerLink]="['login']">Entrar</a></li>    
+        <li *ngIf="isUserAuthenticated()" class="nav-item"><a class="nav-link logout" (click)='logOut()'> {{nome}} Sair</a></li>  
+      </ul>
+    </div>    
+  </div>
+</nav>
+<!-- Navigation End -->

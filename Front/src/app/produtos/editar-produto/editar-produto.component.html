@@ -1,0 +1,34 @@
+<div class="card w-50 mx-auto">
+    <div class="container">
+        <h2 class="address-heading">Editar Produto</h2>
+            
+        <div class="form-group">
+            <input type="text" [(ngModel)]="produtoBd.marca" class="form-control" placeholder="Marca" required autofocus>
+        </div>        
+
+        <div class="form-group">
+            <input type="text" [(ngModel)]="produtoBd.descricao" class="form-control" placeholder="Descrição" required >
+        </div>
+
+        <div class="form-group">
+            <input type="text" [(ngModel)]="produtoBd.unidadeDeMedida" class="form-control" placeholder="Unidade de Medida" required >
+        </div>
+
+        <div class="form-group">
+            <input type="number" min="0.0" step="0.01" [(ngModel)]="produtoBd.precoUnitario" class="form-control" placeholder="Preço Unitário" required >
+        </div>
+
+        <div class="form-group">
+            <input type="number" min="1" step="1" [(ngModel)]="produtoBd.quantidadeEstoque" class="form-control" placeholder="Quantidade de Estoque" required >
+        </div>
+
+        <div class="form-group">
+            <input type="file" accept="image/*" (change)='fileUpload($event)' class="form-control" placeholder="Imagem" required>
+        </div>
+
+        <div class="card-footer bg-white">
+            <button class="btn btn-lg btn-primary btn-block" (click)='editarProduto(produtoBd.id)'>Adicionar</button>
+        </div>
+
+    </div>
+</div>

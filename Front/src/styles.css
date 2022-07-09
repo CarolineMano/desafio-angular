@@ -1,0 +1,139 @@
+/* You can add global styles to this file, and also import other style files */
+/* @import "~font-awesome/css/font-awesome.css"; */
+
+.main-container {
+    padding-top: 100px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+}
+
+.footer {
+    height: 50px;
+    text-align: center;
+}
+
+.jumbotron{
+    margin:15px 30px 0px 30px;
+    border-radius:10px;
+    background: 
+    linear-gradient(
+      rgba(0, 0, 250, 0.25), 
+      rgba(125, 250, 250, 0.45)
+    ),
+    url(https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0% 25%;
+    color:white !important;
+    height:340px;
+  }
+
+  .form-signin {
+    margin-top: 70px;
+  }
+
+  .form-signin-heading{
+    margin-bottom: 20px;
+  }
+
+  .address-heading{
+    margin-top: 80px;
+  }
+
+  .ul-card {
+    list-style-type: none;
+    margin-left: 37%;
+    padding: 0
+}
+
+.page {
+    background-color: #dfe6e0;
+    padding: 2%;
+    margin: auto
+}
+
+.fa {
+    color: white
+}
+
+.fa-search {
+    color:blue
+}
+
+.card-img-top {
+    width: 90%;
+    height: 225px
+}
+
+.view {
+    background-color: #dfe6e0;
+    padding: 10px;
+    margin: 20px
+}
+
+.card {
+    width: 95%;
+    padding: 0px;
+    margin-left: 2%
+}
+
+.card-footer {
+    background-color: white;
+    font-weight: 700;
+}
+
+.price {
+    color: #ff4517;
+    font-weight: 600
+}
+
+.total-price{
+    margin-top: 2em;
+}
+
+.btn {
+    margin-bottom: 1em;
+    border-radius: 15px;
+}
+
+.color-white {
+    color: white
+}
+
+.h1-centralized {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+  }
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 1%;
+  }
+  
+  th {
+    background-color: rgb(0, 89, 255);
+    border: 1px solid black;
+    color: white
+  }
+  td {
+    border: 1px solid rgb(117, 117, 117);
+  }
+  td, th {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  .page-header {
+      margin-top: 5em;
+  }

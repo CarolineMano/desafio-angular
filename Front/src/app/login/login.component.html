@@ -1,0 +1,25 @@
+<div class="card col-6 col-lg-3 mx-auto">
+    <form class="form-signin" #loginForm="ngForm" (ngSubmit)="login(loginForm)">
+        <div class="container-fluid">
+
+            <h2 class="form-signin-heading">Login</h2>
+
+            <div *ngIf="invalidLogin" class="alert alert-danger">E-mail ou senha inválidos</div>
+            <br>
+            
+            <div class="form-group">
+                <label for="email" class="sr-only">E-mail</label>
+                <input type="email" id="email" name="email" ngModel class="form-control" placeholder="E-mail" required autofocus><br>
+            </div>
+
+            <div class="form-group">
+                <label for="senha" class="sr-only">Senha</label>
+                <input type="password" id="senha" name="senha" ngModel class="form-control" placeholder="Senha" required><br> 
+            </div>
+
+            <div class="card-footer bg-white">
+                <button class="btn btn-lg btn-primary btn-block" type="submit">Entrar</button>
+            </div>
+        </div>
+    </form>
+</div>

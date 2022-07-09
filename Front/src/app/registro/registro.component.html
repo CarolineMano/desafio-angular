@@ -1,0 +1,39 @@
+<div class="card col-6 col-lg-3 mx-auto">
+    <form class="form-signin" #registrationForm="ngForm" (ngSubmit)="register(registrationForm)">
+        <div class="container-fluid">
+
+            <h2 class="form-signin-heading">Nova Conta</h2>
+
+            <div *ngIf="existeErro" class="alert alert-danger">{{errorString}}</div>
+            
+            <div class="form-group">
+                <label for="nome" class="sr-only">Nome Completo</label>
+                <input type="text" id="nome" name="nome" ngModel class="form-control" placeholder="Nome completo" required autofocus>    
+            </div>
+            
+            <div class="form-group">
+                <label for="cpf" class="sr-only">CPF</label>
+                <input type="text" id="cpf" name="cpf" ngModel class="form-control" placeholder="CPF" required mask="000.000.000-00">
+            </div>
+
+            <div class="form-group">
+                <label for="email" class="sr-only">E-mail</label>
+                <input type="email" id="email" name="email" ngModel class="form-control" placeholder="E-mail" required>
+            </div>
+
+            <div class="form-group">
+                <label for="senha" class="sr-only">Senha</label>
+                <input type="password" id="senha" name="senha" ngModel class="form-control" placeholder="Senha" required>
+            </div>
+
+            <div class="form-group">
+                <label for="confirmacaoSenha" class="sr-only">Confirmação da senha</label>
+                <input type="password" id="confirmacaoSenha" name="confirmacaoSenha" ngModel class="form-control" placeholder="Confirmação de senha" required>
+            </div>
+
+            <div class="card-footer bg-white">
+                <button class="btn btn-lg btn-primary btn-block" type="submit">Register</button>
+            </div>
+        </div>
+    </form>
+</div>

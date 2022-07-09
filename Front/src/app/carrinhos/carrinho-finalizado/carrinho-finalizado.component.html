@@ -1,0 +1,23 @@
+<div class="page-header">
+
+</div>
+
+<div style="margin:0 30px;">
+    <h2 style="text-align: center;">Minhas Compras</h2>
+    <table>
+        <tr>
+            <th>Id</th>
+            <th>Data Venda</th>
+            <th>CEP Envio</th>
+            <th>Endereço</th>
+            <th>Total da Venda </th>
+        </tr>
+        <tr *ngFor="let carrinho of carrinhos">
+            <td>{{ carrinho.id }}</td>
+            <td>{{ carrinho.dataVenda | date:'yyyy-MM-dd HH:mm a z'}}</td>
+            <td>{{ carrinho.cepEnvio }}</td>
+            <td>{{ carrinho.logradouro }}, nº{{ carrinho.numeroImovel }} - {{ carrinho.cidade }}/{{ carrinho.estado }}</td>
+            <td>{{ carrinho.totalVenda | currency:'BRL':'symbol':'1.2-2':'pt'}}</td>
+        </tr>
+    </table>
+</div>

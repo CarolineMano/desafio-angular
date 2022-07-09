@@ -1,0 +1,110 @@
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\appsettings.json
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\API.StaticWebAssets.xml
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\API.exe
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\API.deps.json
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\API.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\API.pdb
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\obj\Debug\net5.0\API.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\obj\Debug\net5.0\API.pdb
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\DESAFIO.ANGULAR\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\appsettings.json
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\API.StaticWebAssets.xml
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\API.exe
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\API.deps.json
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\API.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\API.pdb
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\obj\Debug\net5.0\API.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\obj\Debug\net5.0\API.pdb
+C:\Users\CEMM\My Private Documents\Treinamento\05 - Angular\Legacy Desafio\API\obj\Debug\net5.0\API.genruntimeconfig.cache
